@@ -1,0 +1,10 @@
+{
+    "kind": "kind",
+    "localId":"localId", 
+    "idToken": "idToken",
+    "email": "email",
+    "refreshToken": "refreshToken",
+    "expiresIn": "expiresIn"
+    }
+    
+    

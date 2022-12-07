@@ -1,0 +1,12 @@
+{
+"kind": "kind",
+"localId":"localId", 
+"displayName":"displayName",
+"idToken": "idToken",
+"registered":true,
+"email": "email",
+"refreshToken": "refreshToken",
+"expiresIn": "expiresIn"
+
+}
+
